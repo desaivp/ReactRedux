@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Learn React and Redux",
+        "project": "Learning for Life",
+        "id": "46656815-6aca-41ff-b955-f05f4cfec7bd",
+        "elapsed": 0,
+        "runningSince": null
+    },
+    {
+        "title": "Read Java 8",
+        "project": "Learning for Life",
+        "id": "310c9fa3-1d7b-4a80-9f64-5b707d224e7d",
+        "elapsed": 0,
+        "runningSince": null
+    },
+    {
+        "title": "Read Effective Java",
+        "project": "Learning for Life",
+        "id": "65a20c55-e759-4a60-aa0d-482fde4ef93e",
+        "elapsed": 0,
+        "runningSince": null
+    }
+]
